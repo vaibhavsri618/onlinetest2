@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+}
+.label {
+    margin: 20px;
+   }
+h2 {
+    margin-left: 30%;
+    margin-top: 20px;
+}
+
+
+
+#main 
+{
+    margin-left: 30%;
+    width: 800px;
+    height: auto;
+    background-color: lightgray;
+}
+
+
+#table {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+th 
+{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+td 
+{
+    padding: 20px;
+}
