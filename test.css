@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+}
+#main {
+    width: 80%;
+    margin-left: 120px;
+    background-color: sandybrown;
+    height: auto;
+    margin-top: 20px;
+}
+#h2 {
+    text-align: center;
+    padding-top: 50px;
+}
+#content {
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    background-color: lightgrey;
+}
+
+#submit2 {
+    margin-left: 45%;
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 5px;
+}

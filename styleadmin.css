@@ -1,0 +1,129 @@
+.main 
+{
+    width: 100%;
+    height: 100%;
+   }
+#asider {
+    width: 25%;
+    height: 850px;
+    background-color: black;
+    float: left;
+}
+ul {
+    margin-left: 0px;
+}
+.li 
+{
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 0px;
+    color: whitesmoke;
+
+    
+}
+
+.li a {
+    
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 0px;
+}
+
+.li:hover {
+    display: block;
+}
+.ul .li:hover {
+    background-color:tomato;
+}
+.ul{
+    display:none;
+}
+.li:hover ul.ul {
+    display: block;
+}
+.li:hover ul.ul li {
+    display: block;
+}
+#a {
+    float: right;
+    margin: 0px 20px 0px 0px;
+    height: 100px;
+}
+body {
+    margin: 0;
+}
+
+.container {
+    float: right;
+    width: 70%;
+    height: 800px;
+   }
+
+.opt {
+    width: 800px;
+    margin-top: 20px;
+    height: 40px;
+    margin-left: 70px;
+}
+#question {
+    margin-left: 130px;
+}
+
+#answer {
+    width: 800px;
+    margin-top: 20px;
+    height: 40px;
+    margin-left: 20px;
+}
+
+#h2 {
+    margin-left: 30%;
+    font-style: italic;
+    color: turquoise;
+}
+
+#submit {
+    margin-left: 40%;
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 5px;
+   }
+#error {
+    color: red;
+}
+
+#name {
+    width: 500px;
+    margin: 20px;
+    height: 30px;
+}
+
+#image {
+    margin: 20px 20px 20px 80px;
+}
+
+#about {
+    margin-left: 80px;
+    margin-top: 20px;
+    width: 500px;
+    height: 30px;
+}
+
+#submit1 {
+    margin-left: 25%;
+    margin-top: 20px;
+    width: 100px;
+    border-radius: 5px;
+   }
+
+#select {
+    width: 100px;
+    margin-top: 20px;
+    height: 40px;
+}
+
+.li:hover {
+    background-color: slateblue;
+}
